@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 app = FastAPI(title="Frankenstein IG API", description="Old Scrapers + RapidAPI + Cache")
 
 # TERA BEWAKOOFI BHARA HARDCODED KEY SETUP. (Nayi key daalna yahan, purani leak ho chuki hai)
-RAPIDAPI_KEY = "YOUR_NEW_RAPIDAPI_KEY_HERE" 
+RAPIDAPI_KEY = "59128d6552msh5031f4c0d3f221dp114026jsna5803a7f43c1" 
 RAPIDAPI_HOST = "instagram-looter2.p.rapidapi.com"
 
 USER_AGENTS = [
